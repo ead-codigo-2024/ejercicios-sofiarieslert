@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(195, 179, 212);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.centrado {
+    text-align: center; /* Para centrar el texto */
+    margin: 0 auto; /* Para centrar un bloque con un ancho definido */
+}
